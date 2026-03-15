@@ -1,7 +1,10 @@
 *.aux
-*.latexmk
+*latexmk
 *.fls
 *.log
 *.out
 *.toc
 *.gz
+*synctex*
+
+*%OUTDIR%
